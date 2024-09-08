@@ -1,4 +1,3 @@
-
 # List
 # 3. Manipulating the Justice League list
 justice_league = ["Superman", "Batman", "Wonder Woman", "Flash", "Aquaman", "Green Lantern"]
